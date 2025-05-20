@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**avutuan/avutuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on
+- **SoundBoard Website** — A website that emulates a soundboard
+- **MobileTIP** — Mobile technical interview preparation
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript, C++, …  
+- **Frameworks/Libraries:** React, Node.js, Flask, …  
+- **Tools & Platforms:** Git, Docker, AWS, …  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+| Name | Description | Tech | Link |
+| ---- | ----------- | ---- | ---- |
+| Project A | One-line summary | React · Node.js | [Repo](https://github.com/you/project-a) |
+| Project B | One-line summary | Python · Flask | [Demo](https://demo.com) |
+
+## 📈 GitHub Stats
+![Tuan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avutuan&show_icons=true&theme=default)
+
+## 📫 How to reach me
+- Email: business.tuanvu@example.com  
+- LinkedIn: [avutuan](https://linkedin.com/in/avutuan)  
