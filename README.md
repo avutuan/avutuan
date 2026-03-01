@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 - **SoundBoard Website** — A website that emulates a soundboard
 - **MobileTIP** — Mobile technical interview preparation
+- **Foodie** - Cross-platform app to find deals on local restaurants
 
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript/TypeScript, C#, C, C++, Swift
