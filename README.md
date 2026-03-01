@@ -17,8 +17,9 @@
 | Project B | One-line summary | Python · Flask | [Demo](https://demo.com) |
 -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 ![Tuan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=avutuan&show_icons=true&theme=default)
+-->
 
 ## 📫 How to reach me
 - Email: business.tuanvu@example.com  
